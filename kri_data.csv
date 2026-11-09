@@ -1,0 +1,9 @@
+kri,unit,higher_is_worse,target,red,Q1 2026,Q2 2026,Q3 2026
+Critical vulnerabilities open over 30 days,count,yes,5,15,22,14,9
+Patch compliance,%,no,95,85,82,88,92
+Phishing simulation click rate,%,yes,3,8,9.1,6.4,4.2
+MFA coverage on privileged accounts,%,no,100,95,91,96,99
+Mean time to detect,hours,yes,4,12,18,11,6
+Mean time to respond,hours,yes,24,72,60,40,30
+Vendors with overdue security assessments,count,yes,2,6,9,7,4
+Backup restore tests passed,%,no,95,80,70,85,96
